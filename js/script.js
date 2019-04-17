@@ -1,10 +1,10 @@
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: 41.921057, lng: -87.633503},
+    center: {lat: 31.8346495, lng: 117.2107937},
     zoom: 8    });
     
     var infoWindow = new google.maps.InfoWindow({
-      content: 'Lincoln Park Zoo'
+      content: 'hefei city in China'
       });
     
     var marker = new google.maps.Marker({
