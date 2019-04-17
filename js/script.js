@@ -10,7 +10,7 @@ function initMap() {
     var marker = new google.maps.Marker({
       position: center,
       map: map,
-      icon: 'pics/map.png'
+      icon: 'images/map.png'
     });
     
     marker.addListener('click', function() {
