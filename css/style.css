@@ -49,11 +49,10 @@ footer {
 }
 .nav{
     text-align: center;
-    color: ;
-
+    color:blue;
 }
 .nav ul li {
-    display:inline;
+    display:inline-block
 }
 .nav ul{
     list-style-type: none;
