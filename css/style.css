@@ -57,13 +57,17 @@ footer {
   color: grey;
 }
 .nav {
-    text-align: center;
-    color:blue;
+  text-align: center;
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Times;
+  background-color:black
 }
 .nav ul li {
-    display:inline-block
+  display:inline-block
 }
 .nav ul {
     list-style-type: none;
-    padding: 0;
+  padding: 0;
 }
