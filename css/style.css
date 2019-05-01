@@ -22,22 +22,27 @@ h1 {
 }
 h2 {font-size:40px;
   font-family: "Time New Roman", Times;
+  text-align: center;
   color:orange;
 }
 h3 {font-size:40px;
   font-family: "Time New Roman", Times;
+  text-align: center;
   color:orange;
 }
 h4 {font-size:40px;
   font-family: "Time New Roman", Times;
+  text-align: center;
   color:orange;
 }
 h5 {font-size:40px;
   font-family: "Time New Roman", Times;
+  text-align: center;
   color:orange;
 }
 h6 {font-size:40px;
   font-family: "Time New Roman", Times;
+  text-align: center;
   color:orange;
 }
 img {
@@ -58,11 +63,11 @@ footer {
 }
 .nav {
   text-align: center;
-  color: blue;
-  font-size: 20px;
+  color: orange;
+  font-size: 25px;
   font-weight: bold;
   font-family: Arial, Times;
-  background-color:black
+  background-color:black;
 }
 .nav ul li {
   display:inline-block
