@@ -67,7 +67,7 @@ footer {
   background-color:black;
 }
 .nav ul li {
-  display:inline-block
+  display:inline;
 }
 .nav ul {
     list-style-type: none;
