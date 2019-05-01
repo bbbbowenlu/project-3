@@ -17,6 +17,17 @@ h1,h2,h3,h4,h5,li{
   margin-left: 15%;
   margin-right: 15%
 }
+.nav{
+    text-align: center;
+    color: blue;
+}
+.nav ul{
+    display:inline;
+}
+.nav ul{
+    list-style-type: none;
+    padding: 0;
+}
 img {
   display: block;
   width: 50%;
