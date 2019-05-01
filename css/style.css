@@ -56,14 +56,14 @@ footer {
   font-size:10px;
   color: grey;
 }
-.nav{
+.nav {
     text-align: center;
     color:blue;
 }
 .nav ul li {
     display:inline-block
 }
-.nav ul{
+.nav ul {
     list-style-type: none;
     padding: 0;
 }
